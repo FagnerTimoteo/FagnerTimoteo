@@ -8,9 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:fagnertimoteosilva@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://www.linkedin.com/in/seu_perfil/">
+  <a href="https://www.linkedin.com/in/fagner-timoteo-39a364245/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
